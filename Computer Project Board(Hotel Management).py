@@ -6,8 +6,8 @@
 #*******MEGHRAJ DAS    - CLASS XII D - ROLL NO - 27 [ 2024-2025 ]"
 #*******RONI BISWAS    - CLASS XII D - ROLL NO - 30 [ 2024-2025 ]"
 #*******SAGNIK SARKAR  - CLASS XII D - ROLL NO - 32 [ 2024-2025 ]" 
- #*******SUDHANSU TUDU    - CLASS XII D - ROLL NO - 44 [ 2024-2025 ]" 
-#*******UJAN MITRA   - CLASS XII D - ROLL NO - 47 [ 2024-2025 ]"
+#*******SUDHANSU TUDU  - CLASS XII D - ROLL NO - 44 [ 2024-2025 ]" 
+#*******UJAN MITRA     - CLASS XII D - ROLL NO - 47 [ 2024-2025 ]"
 
 import mysql.connector 
 
